@@ -6,8 +6,8 @@ const path = require('path')
 const routes = require('./routes')
 
 const PORT_LISTENING = 3333
-const DB_USER = 'xonado'
-const DB_PASSWD = '12345'
+const DB_USER = ''
+const DB_PASSWD = ''
 
 const app = express()
 
